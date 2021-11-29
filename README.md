@@ -1,0 +1,1 @@
+# jscpd-skipLocal-example
