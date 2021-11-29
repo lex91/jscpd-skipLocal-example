@@ -1,0 +1,16 @@
+{
+  "threshold": 0,
+  "reporters": [
+    "console"
+  ],
+  "format": [
+    "javascript"
+  ],
+  "absolute": true,
+  "debug": false,
+  "skipLocal":true,
+  "path": [
+    "packages/a",
+    "packages/b"
+  ]
+}

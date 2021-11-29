@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lex91/jscpd-skipLocal-example/issues"
   },
-  "homepage": "https://github.com/lex91/jscpd-skipLocal-example#readme"
+  "homepage": "https://github.com/lex91/jscpd-skipLocal-example#readme",
+  "devDependencies": {
+    "jscpd": "^3.4.2"
+  }
 }
