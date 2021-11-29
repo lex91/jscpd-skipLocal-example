@@ -1,0 +1,10 @@
+build
+dist
+node_modules
+report
+.awcache
+.env
+.idea
+.vscode
+.DS_Store
+
